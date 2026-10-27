@@ -1,0 +1,10 @@
+[
+  {
+    "name": "티비위키",
+    "lang": "ko",
+    "version": "1.0.0",
+    "fileName": "tvwiki.js",
+    "className": "TVWikiExtension",
+    "description": "MOA 미디어 서버용 티비위키 비공식 확장 스크립트"
+  }
+]
